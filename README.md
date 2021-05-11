@@ -1,2 +1,1 @@
-Нумерация страниц
- 
+Pagination React
